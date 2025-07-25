@@ -3,4 +3,4 @@ During my internship at United Network of Professionals, I developed a Power BI 
 
 PROJECT DASHBOARD PBIX FILE : https://drive.google.com/file/d/1hpMcM2pY_8FyL_hsWZmQqt2YCyg29eiq/view?usp=sharing
 
-PROJECT DASHBOARD PDF FILE : https://drive.google.com/file/d/1c4rK5FYLAep13sYViaZkmt_WEPP9hKmH/view?usp=sharing 
+PROJECT DASHBOARD PDF FILE : https://drive.google.com/file/d/11q2cQJDgpjjB91dSF4A4Bfy9NXvgp-Rp/view?usp=sharing
